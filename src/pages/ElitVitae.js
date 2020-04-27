@@ -6,7 +6,7 @@ import Fade from 'react-reveal/Fade';
 export default function CartPage() {
 
     console.log("EV LOADED");
-    window.location.assign("https://www.elit-vitae.co.in");
+    window.location.assign("https://elit-vitae.herokuapp.com");
 
     //history.push('/new-location')
 
